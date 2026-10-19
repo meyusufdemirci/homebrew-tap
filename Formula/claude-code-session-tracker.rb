@@ -3,8 +3,8 @@
 class ClaudeCodeSessionTracker < Formula
   desc "See every Claude Code session on your machine in a local dashboard"
   homepage "https://github.com/meyusufdemirci/claude-code-session-tracker"
-  url "https://registry.npmjs.org/claude-code-session-tracker/-/claude-code-session-tracker-0.12.0.tgz"
-  sha256 "2bb8ca6b65ed16cf7d8c95813ce420f617e10bc60a0b48778a2674835faedd70"
+  url "https://registry.npmjs.org/claude-code-session-tracker/-/claude-code-session-tracker-0.13.0.tgz"
+  sha256 "267a673de06d49b41d9b5b4aa147130520d96756c24f27ede05bc88217c54782"
   license "MIT"
 
   depends_on "node"
